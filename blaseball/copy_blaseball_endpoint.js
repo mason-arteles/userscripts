@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name        Copy Endpoint JSON
-// @namespace   http://mason-arteles.github.io/
-// @version     1.0
+// @namespace   https://mason-arteles.github.io/
+// @version     1.0.0
 // @description Copy the raw JSON of the blaseball endpoint into your clipboard with two clicks.
 // @author      mason-arteles@github
 // @match       https://api2.blaseball.com//*
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=blaseball.com
 // @grant       none
 // @run-at      context-menu
+// @supporturl  https://discord.com/channels/@me/176112761477136384/
 // ==/UserScript==
 
 void async function() {
