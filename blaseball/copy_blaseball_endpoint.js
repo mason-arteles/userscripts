@@ -9,6 +9,7 @@
 // @grant       none
 // @run-at      context-menu
 // @supporturl  https://discord.com/channels/@me/176112761477136384/
+// @downloadurl https://raw.githubusercontent.com/mason-arteles/userscripts/main/blaseball/copy_blaseball_endpoint.js
 // ==/UserScript==
 
 void async function() {
